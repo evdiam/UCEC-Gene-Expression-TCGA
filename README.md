@@ -10,17 +10,6 @@ Abstract:
 Table of Contents:
 
 
-Background:
-- What is uterine cancer?
-
-
-- Why is gene expression important?
-
-
-- Why do researchers study gene expression?
-
-
-
 Objectives:
 - Obtain the TCGA-UCEC dataset.
 - Comprehend and clean the dataset.
@@ -31,11 +20,7 @@ Objectives:
 Dataset:
 Dataset obtained from the TCGA programme (The Cancer Genome Atlas Programme) for the disease UCEC (Uterine Corpus Endometrial Carcinoma), with 560 cases reported. 
 
-Methodology:
-
-
-Project Structure:
-
+Materials and Methods:
 
 
 Results:
@@ -45,9 +30,6 @@ Discussion:
 
 
 Limitations:
-
-
-Future Work:
 
 
 Skills Demonstrated:
