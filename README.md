@@ -18,21 +18,4 @@ Objectives:
 - Interpret their biological significance.
 
 Dataset:
-Dataset obtained from the TCGA programme (The Cancer Genome Atlas Programme) for the disease UCEC (Uterine Corpus Endometrial Carcinoma), with 560 cases reported. 
-
-Materials and Methods:
-
-
-Results:
-
-
-Discussion:
-
-
-Limitations:
-
-
-Skills Demonstrated:
-
-
-References:
+Dataset obtained from the TCGA programme (The Cancer Genome Atlas Programme) for the disease UCEC (Uterine Corpus Endometrial Carcinoma), with 560 cases reported.
